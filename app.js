@@ -4,7 +4,7 @@ const ejs = require("ejs");
 const bodyParser = require("body-parser");
 const nodemailer= require("nodemailer")
 const app = express();
-
+/////testing
 app.set("view engine", "ejs");
 
 app.use(bodyParser.urlencoded({ extended: true }));
