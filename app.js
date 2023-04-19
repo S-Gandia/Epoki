@@ -92,3 +92,6 @@ app.post("/contact", function(req, res){
 app.listen(3000, function(){
     console.log("Server started on port 3000")
 })
+
+    // "netlify-cli": "14.1.0",
+    // "netlify-lambda": "2.0.16"
